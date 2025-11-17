@@ -68,6 +68,11 @@ export class AppConfig {
           type: 'rss',
           rssUrl: 'https://www.workwithindies.com/careers/rss.xml',
         },
+        {
+          name: 'HitmarkerRSS',
+          type: 'rss',
+          rssUrl: 'https://rss.app/feeds/qqfzAgDCQwovwmP6.xml',
+        },
       ],
       filters: {
         title: {
